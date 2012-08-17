@@ -1,0 +1,16 @@
+pl:
+  field_new_window: Otwieraj w nowym oknie
+  name: Nazwa
+  url: Adres URL
+  custom_menu:
+    edit: Edytuj
+    edit_title: Edycja linku
+    successful_update: Pomyślnie zaktualizowano link
+    delete: Usuń
+    sure: Czy napewno chcesz usunąć ten link?
+    successful_delete: Link został usunięty
+    successful_create: Link został dodany
+    add: Dodaj
+    add_title: Dodawanie nowego linku
+    add_link: Dodaj link
+  links: Właśne linki

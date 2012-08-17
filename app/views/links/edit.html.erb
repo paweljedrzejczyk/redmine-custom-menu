@@ -1,0 +1,7 @@
+<%= render :partial => 'links/header' %>
+<h2><%=l('custom_menu.edit_title')%></h2>
+
+<% labelled_tabular_form_for :custom_menu, @link, :url => custom_menu_path(@link), :html => { :method => :put } do |f| %>
+	<%= render :partial => 'links/form', :locals => { :f => f } %>
+	<%= submit_tag l('custom_menu.edit'), :name => "edit" %>
+<% end %>

@@ -1,0 +1,16 @@
+en:
+  field_new_window: Open in new window
+  name: Name
+  url: URL
+  custom_menu:
+    edit: Edit
+    edit_title: Edit the link
+    successful_update: Link has been successfully updated
+    delete: Delete
+    sure: Do you really want to delete that link?
+    successful_delete: Link has been deleted
+    successful_create: Link has been added
+    add: Add
+    add_title: Adding new link
+    add_link: Add a new link
+  links: Customs links
